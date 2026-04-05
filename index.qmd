@@ -1,9 +1,6 @@
----
+# About Ash Brandenburg
+## Beginings of a Porfolio
 
-title: "About Ash Brandenburg"
-subtitle: "Beginings of a Porfolio"
----
-
-# Welcome
+Welcome to my portfolio. I am an operations student interested in using data analysis, process improvement, and problem-solving to help organizations work more efficiently. This site highlights my projects, skills, and experience in applying data-driven thinking to real-world business and operational challenges.
 
 [View Resume](resume.pdf)
