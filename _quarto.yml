@@ -3,7 +3,7 @@ project:
 
 website:
   title: "Ash Brandenburg - Data Science Portfolio"
-  favicon: Images/favicon.png
+  favicon: Images/favi.png
   back-to-top-navigation: true
   repo-url: https://aboss-us.github.io/aboss-us.github.io-/
   #repo-actions: [issue] #if you want to allow others to report issues on your site uncomment this line
