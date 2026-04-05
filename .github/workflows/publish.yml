@@ -44,9 +44,6 @@ jobs:
       #       any::knitr
       #       any::DT
 
-      - name: Resume
-        run: resume.pdf
-
       - name: Render and Publish
         uses: quarto-dev/quarto-actions/publish@v2
         with:
