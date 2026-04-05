@@ -1,8 +1,0 @@
----
-title: "About Ash Brandenburg"
-subtitle: "Beginings of a Porfolio"
----
-
-# Welcome
-
-[View Resume](resume.pdf)
