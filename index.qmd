@@ -1,8 +1,7 @@
 ---
+
 title: "About Ash Brandenburg"
-subtitle: "Beginings of a Porfolio
-"
-# use quarto markdown to 
+subtitle: "Beginings of a Porfolio"
 ---
 
 # Welcome
